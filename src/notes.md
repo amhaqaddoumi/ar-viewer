@@ -1,0 +1,62 @@
+
+
+
+### Nodes
+- (X) AR Node
+    - (X) Id
+    - (X) Position
+    - (X) Rotation
+    - (X) Scale
+    - (X) Visible
+- (X) AR Container Node
+- ( ) AR Viewer Node
+    - (X) Mode
+    - (X) Scale Slider
+    - (X) Rotate Slider
+    - ( ) QR Pattern
+    - ( ) QR Code Size
+    - ( ) Drawer Height
+    - ( ) Models Select
+    - ( ) Views Loop
+    - ( ) Reset Button
+    - ( ) Scale Speed
+    - ( ) Rotate Speed
+- ( ) AR View Node
+    - ( ) Min Scale
+    - ( ) Max Scale
+- ( ) AR Model Node
+    - (X) Src
+    - ( ) Transparent
+    - ( ) Animated
+    - ( ) Animation Clip
+
+- ( ) AR Light Node
+    - (X) Light Type
+    - (X) Intensity
+    - (X) Color
+    - ( ) Ground Color
+    - ( ) Distance
+    - ( ) Angle
+    - ( ) Decay
+    - ( ) Penumbra
+    - ( ) Target
+---
+- (X) UI Node
+    - (X) Id
+- ( ) UI Text Node
+    - (X) Text
+    - (X) Variant
+    - (X) Align
+    - ( ) Color
+- (X) UI Switch Node
+    - (X) Label
+    - (X) Default Value
+    - (X) Action
+    - (X) Target
+- (X) UI Slider Node
+    - (X) Label
+    - (X) Default Value
+    - (X) Min
+    - (X) Max
+    - (X) Action
+    - (X) Target
